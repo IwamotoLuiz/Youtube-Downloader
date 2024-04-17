@@ -1,4 +1,4 @@
-# [Youtube-Downloader](https://github.com/IwamotoLuiz/Youtube-Downloader/blob/v0/youtube_downloader.py)
+# Youtube-Downloader
 
 Youtube-Downloader is a Python script that allows you to download audio from YouTube videos and save them as MP3 files. It is designed to be incrementally updated with additional functionalities, including an eventual Graphical User Interface (GUI).
 
